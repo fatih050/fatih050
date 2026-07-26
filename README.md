@@ -1,4 +1,4 @@
-## 🧑‍💻 Ben Kimim ?
+# 🧑‍💻 Ben Kimim ?
 
 Selamlar, Ben Fatih
 
@@ -8,16 +8,16 @@ Temel kodlama yapılarından başlayarak işin mantığını oturtmaya ve taray�
 
 Günün sonunda amacım; bir web projesinin hem kullanıcıyla etkileşime giren ön yüzünü hem de arka planda dönen veri ve sunucu trafiğini tek başına tasarlayıp bir araya getirebilecek bir yetkinliğe ulaşmak. Her gün yeni bir algoritma yapısı çözerek, dillerin söz dizimlerini pekiştirerek ve sürekli pratik yaparak bu hedef doğrultusunda ilerlemeye devam ediyorum.
 
-## 🚀 Teknolojik Yetkinliklerim & Yol Haritam 
+# 🚀 Teknolojik Yetkinliklerim & Yol Haritam 
 
 Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklanarak dengeli bir gelişim göstermeyi önemsiyorum. Bu doğrultuda dillerin temel mantığını, söz dizimini, fonksiyonel yapılarını ve algoritma mantığını kavrayarak kendime sağlam bir temel oluşturdum. Öğrendiğim her yeni yapıyla birlikte problem çözme becerilerimi ve kodlama disiplinimi bir adım ileriye taşımaya çalışıyorum. Hedeflerim doğrultusunda, bir web sitesinin **frontend** tarafındaki dinamik yapılardan, verilerin işlendiği **backend** ve **veri tabanı** mantığına kadar olan tüm süreçlerin mutfağına hakim olmayı amaçlıyorum. Bu teknolojilerin birbiriyle nasıl haberleştiğini ve veri akışının nasıl sağlandığını pratikler yaparak öğreniyor, adımlarımı istikrarlı bir şekilde atmaya devam ediyorum.
 
-### 🏢 Girişim / Startup
+# 🏢 Girişim / Startup
 
 > # [Chaxelios](https://github.com/chaxelios)
 * **Founder** | Software & Web Development
 
-## 💻 Odaklandığım Teknolojiler & Programlama Dilleri 
+# 💻 Odaklandığım Teknolojiler & Programlama Dilleri 
 
  ### 🌐 **Frontend**
 
@@ -36,7 +36,7 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
 * Git
 * GitHub
 
-## 🏅 Deneyim & Sertifikalar
+# 🏅 Deneyim & Sertifikalar
 
 * **BTK Akademi** | HTML5 ile Web Sitesi Geliştirme
 
