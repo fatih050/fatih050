@@ -12,9 +12,19 @@ Günün sonunda amacım; bir web projesinin hem kullanıcıyla etkileşime giren
 
 Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklanarak dengeli bir gelişim göstermeyi önemsiyorum. Bu doğrultuda dillerin temel mantığını, söz dizimini, fonksiyonel yapılarını ve algoritma mantığını kavrayarak kendime sağlam bir temel oluşturdum. Öğrendiğim her yeni yapıyla birlikte problem çözme becerilerimi ve kodlama disiplinimi bir adım ileriye taşımaya çalışıyorum. Hedeflerim doğrultusunda, bir web sitesinin **frontend** tarafındaki dinamik yapılardan, verilerin işlendiği **backend** ve **veri tabanı** mantığına kadar olan tüm süreçlerin mutfağına hakim olmayı amaçlıyorum. Bu teknolojilerin birbiriyle nasıl haberleştiğini ve veri akışının nasıl sağlandığını pratikler yaparak öğreniyor, adımlarımı istikrarlı bir şekilde atmaya devam ediyorum.
 
-### 🏢 Girişim / Startup
+<h3>🏢 Girişim / Startup</h3>
 
-🛠️ **Founder @ [Chaxelios](https://github.com/chaxelios)**
+<table>
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/chaxelios">
+        <img src="https://raw.githubusercontent.com/fatih050/fatih050/main/resimler/IMG_20260524_120146.jpg" width="60" alt="Chaxelios Logo" style="border-radius: 50%;"><br>
+        <b><font size="4">Chaxelios</font></b>
+      </a><br>
+      <sub><b>Kurucusu</b> | Modern Web ve Yazılım Çözümleri</sub>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Odaklandığım Teknolojiler & Programlama Dilleri 
 
