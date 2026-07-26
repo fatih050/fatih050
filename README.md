@@ -14,14 +14,18 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
 
 <h3>🏢 Girişim / Startup</h3>
 
-<table>
+<!-- Girişim / Startup Bölümü Başlangıcı -->
+<h3>🏢 Girişim / Startup</h3>
+
+<table border="0">
   <tr>
-    <td align="center" width="400">
+    <td width="30"></td>
+    <td align="left" style="line-height: 1.6;">
       <a href="https://github.com/chaxelios">
-        <img src="https://raw.githubusercontent.com/fatih050/fatih050/main/resimler/IMG_20260524_120146.jpg" width="60" alt="Chaxelios Logo" style="border-radius: 50%;"><br>
-        <b><font size="4">Chaxelios</font></b>
-      </a><br>
-      <sub><b>Kurucusu</b> | Modern Web ve Yazılım Çözümleri</sub>
+        <b><font size="6" face="Segoe UI, Helvetica">Chaxelios</font></b>
+      </a>
+      <br>
+      <font size="4"><b>Kurucusu</b> | Modern Web ve Yazılım Çözümleri</font>
     </td>
   </tr>
 </table>
