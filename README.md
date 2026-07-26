@@ -14,7 +14,7 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
 
 ### 🏢 Girişim / Startup
 
-🚀 **[Chaxelios](https://github.com/chaxelios)**
+🛠️ **Founder @ [Chaxelios](https://github.com/chaxelios)**
 
 ## 💻 Odaklandığım Teknolojiler & Programlama Dilleri 
 
