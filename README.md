@@ -14,9 +14,8 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
 
 ### 🏢 Girişim / Startup
 
-> [!NOTE]
 > # [Chaxelios](https://github.com/chaxelios)
-> **Kurucusu** | Modern Web ve Yazılım Çözümleri
+> **Kurucusu** | Software & Web Development
 
 ## 💻 Odaklandığım Teknolojiler & Programlama Dilleri 
 
