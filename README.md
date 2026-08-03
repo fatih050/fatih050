@@ -14,7 +14,7 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
 
 ## 🌟 Öne Çıkan Projelerim
 
-📌 **[Todolist](https://github.com/fatih050/todolist-proje)** - *Görev yönetimi sağlayan dinamik web uygulaması*
+📌 **[Todolist](https://github.com/fatih050/todolist-proje)** - Görev yönetimi sağlayan dinamik web uygulaması
 
 ## 🏢 Girişim / Startup
 
