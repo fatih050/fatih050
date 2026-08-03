@@ -15,7 +15,7 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
 <<<<<<< HEAD
 ## 💻 Öne Çıkan Projelerim
 
-📌 **[Todolist](https://github.com/fatih050/todolist-proje)**
+📌 **Todolist(https://github.com/fatih050/todolist-proje)**
 
 =======
 >>>>>>> 701e80df2ea2dec4bf6823e2a46285bf08bc1071
