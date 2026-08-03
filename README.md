@@ -12,7 +12,7 @@ Günün sonunda amacım; bir web projesinin hem kullanıcıyla etkileşime giren
 
 Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklanarak dengeli bir gelişim göstermeyi önemsiyorum. Bu doğrultuda dillerin temel mantığını, söz dizimini, fonksiyonel yapılarını ve algoritma mantığını kavrayarak kendime sağlam bir temel oluşturdum. Öğrendiğim her yeni yapıyla birlikte problem çözme becerilerimi ve kodlama disiplinimi bir adım ileriye taşımaya çalışıyorum. Hedeflerim doğrultusunda, bir web sitesinin **frontend** tarafındaki dinamik yapılardan, verilerin işlendiği **backend** ve **veri tabanı** mantığına kadar olan tüm süreçlerin mutfağına hakim olmayı amaçlıyorum. Bu teknolojilerin birbiriyle nasıl haberleştiğini ve veri akışının nasıl sağlandığını pratikler yaparak öğreniyor, adımlarımı istikrarlı bir şekilde atmaya devam ediyorum.
 
-## 💻 Öne Çıkan Projelerim
+## 🌟 Öne Çıkan Projelerim
 
 📌 **[Todolist](https://github.com/fatih050/todolist-proje)** - *Görev yönetimi sağlayan dinamik web uygulaması*
 
