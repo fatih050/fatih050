@@ -50,7 +50,9 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
   <a href="https://www.linkedin.com/in/fatih-mutaf-03387130b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2" />
   </a>
+  <br />
+  <br />
   <a href="mailto:fmutaf10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&v=2" />
   </a>
 </p>
