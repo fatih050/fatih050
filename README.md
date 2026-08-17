@@ -55,12 +55,48 @@ Yazılım geliştirme sürecinin hem teorik hem de pratik aşamalarına odaklana
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&v=2" />
   </a>
 </p> -->
+<svg width="220" height="52" viewBox="0 0 220 52" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="216" height="48" rx="10" fill="#000000" stroke="#00d9ff" stroke-width="2" filter="url(#glow)"/>
+  <g filter="url(#glow)">
+    <rect x="18" y="15" width="20" height="20" rx="3" fill="#0A66C2"/>
+    <text x="28" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="13" fill="#ffffff" text-anchor="middle">in</text>
+  </g>
+  <text x="135" y="32" font-family="Arial, sans-serif" font-weight="bold" font-size="15" fill="#ffffff" text-anchor="middle" letter-spacing="1">LINKEDIN</text>
+</svg>
+<svg width="220" height="52" viewBox="0 0 220 52" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="216" height="48" rx="10" fill="#000000" stroke="#00d9ff" stroke-width="2" filter="url(#glow)"/>
+  <g filter="url(#glow)">
+    <path d="M18 16 L38 16 L38 34 L18 34 Z" fill="#ffffff"/>
+    <path d="M18 16 L28 26 L38 16" fill="none" stroke="#EA4335" stroke-width="2"/>
+    <path d="M18 16 L18 34" stroke="#4285F4" stroke-width="2"/>
+    <path d="M38 16 L38 34" stroke="#34A853" stroke-width="2"/>
+  </g>
+  <text x="135" y="32" font-family="Arial, sans-serif" font-weight="bold" font-size="15" fill="#ffffff" text-anchor="middle" letter-spacing="1">GMAIL</text>
+</svg>
 <p align="left">
   <a href="https://www.linkedin.com/in/fatih-mutaf-03387130b">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&color=000000" />
+    <img src="./assets/linkedin-neon.svg" width="220" />
   </a>
   <br /><br />
   <a href="mailto:fmutaf10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3366&color=000000" />
+    <img src="./assets/gmail-neon.svg" width="220" />
   </a>
 </p>
